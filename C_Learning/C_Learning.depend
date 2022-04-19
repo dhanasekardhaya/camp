@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1650017143 source:e:\c\c_learning\first.c
+	<stdio.h>
+
+1584205420 source:e:\c\c_learning\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1650017641 source:e:\c\c_learning\switch.c
+	<stdio.h>
+
+1650179939 source:e:\c\c_learning\arrayfun.c
+	<stdio.h>
+
+1650171252 source:e:\c\c_learning\callbyrefer.c
+	<stdio.h>
+
